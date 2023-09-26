@@ -158,7 +158,7 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "https://drive.google.com/file/d/1jwJQQKewo-qT880G_ifya-PopJBlrYND/view?usp=sharing",
+      // img: "https://drive.google.com/file/d/1jwJQQKewo-qT880G_ifya-PopJBlrYND/view?usp=sharing",
       role: "Software Engineer",
       company: "PIIS",
       date: "2021-05 - Current",
@@ -177,7 +177,7 @@ export const Bio = {
     },
     {
       id: 0,
-      img: "https://drive.google.com/file/d/1xVNQwXKKzfmGw2zjInUZI5m78CgH3CJC/view?usp=sharing",
+      // img: "https://drive.google.com/file/d/1xVNQwXKKzfmGw2zjInUZI5m78CgH3CJC/view?usp=sharing",
       role: "Front End Developer Intern",
       company: "HIIT",
       date: "2019-03 - 2020-01",
@@ -205,8 +205,8 @@ export const Bio = {
       date: "Sep 2023 - Sep 2023",
       description:
         "LegacyGallery is a web app that showcases various images with tag, infusesd with drag and drop features, which allow users move the image around and rearrange them",
-      image:
-        "https://github.com/lumzyj/LegacyGallery/blob/main/src/img/collection.jpg",
+      // image:
+      //   "https://github.com/lumzyj/LegacyGallery/blob/main/src/img/collection.jpg",
       tags: [
         "Vite",
         "TailWindCss",
@@ -226,8 +226,8 @@ export const Bio = {
       date: "Sep 2023 - Sep 2023",
       description:
         "MovieHub is a web application that allows users to explore a vast collection of movies, discover new releases, view movie details, and even add their favorite movies to a list. It provides an engaging and interactive platform for movie enthusiasts to keep track of their favorite films, explore new genres, and more.",
-      image:
-        "https://github.com/lumzyj/MovieSite/blob/main/src/assets/Poster.png",
+      // image:
+      //   "https://github.com/lumzyj/MovieSite/blob/main/src/assets/Poster.png",
       tags: ["React Js", "React Router", "Tailwind CSS", "Axios", "FavoritePopup"],
       category: "web app",
       github: "https://github.com/lumzyj/MovieSite",
@@ -240,8 +240,8 @@ export const Bio = {
       date: " 2022 Oct- 2022 Oct",
       description:
         "A beautiful Coffe web Application built with Html, css, JavaScript, Bootstrap.",
-      image:
-        "https://github.com/lumzyj/coffee/blob/main/images/home-img.jpeg",
+      // image:
+      //   "https://github.com/lumzyj/coffee/blob/main/images/home-img.jpeg",
       tags: [
         "Html",
         "Css",
