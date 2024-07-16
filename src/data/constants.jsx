@@ -216,7 +216,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/hngx-org/zuriportfolio-frontend",
-      webapp: "https://zuriportfolio-frontend-pw1h.vercel.app/",
+      webapp: "https://zuriportfolio.vercel.app/",
     },
     {
       id: 9,
